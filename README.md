@@ -5,4 +5,7 @@ interface. It supports infinite scrolling, efficient image loading, and offline 
 
 <h1>Link to the demo of the application</h1>: https://drive.google.com/file/d/1bOmKePIC-qhECIUG7ao6tmvmkHJkLj2w/view?usp=sharing
 
+<br>
+<br>
+
 ![image alt](https://github.com/DeepakGuleria768/PixPloreApp/blob/912152aefc20505cbb7795d5ebd0c275dfe5591a/project%20Image%20screenshots.jpg)
